@@ -25,9 +25,34 @@ git help
 git init
 ```
 
+* __git config --global user.email:__ Configuracion de repositorio email
+```
+git config --global user.email "sam@google.com"
+```
+
+* __git config --global user.name:__ Configuracion de repositorio name
+```
+git config --global user.name "sebastian"
+```
+
 * __git clone url:__ Clonar repositorio.
 ```
 git clone 
+```
+
+* __git remote add origin + url:__ Agregar repositorio remoto.
+```
+git remote add origin + url
+```
+
+* __git remote -v:__ Verifica url remota
+```
+git remote -v
+```
+
+* __git status:__ Muestra el estado del repositorio
+```
+git status
 ```
 
 * __git add + path/file:__ Añadir archivos para un commit
@@ -75,7 +100,24 @@ git checkout -- "nombre-archivo"
 git checkout -b "nombre rama"
 ```
 
+* __git branch -d:__ Eliminar rama local
+```
+git branch -d "rama"
+```
+
+* __git push origin --delete "nombre-rama":__ Eliminar rama remota
+```
+git push origin --delete "nombre-rama"
+```
 
 
+
+###Enlaces de interes
+
+[Git - La guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
+[Libro oficial Git](https://git-scm.com/book/es/v2)
+[git branching](https://learngitbranching.js.org/)
+[comandos git](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/)
+[git bitbucket](https://es.atlassian.com/git/tutorials)
 
 
