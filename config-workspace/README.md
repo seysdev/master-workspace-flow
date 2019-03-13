@@ -4,7 +4,7 @@ Aprenderemos comandos basicos para manejar un flujo de creacion de archivos, car
 
 ## Instalacion de software
 
-###Editor
+### Editor
 En el mercado existen muchos editores(brakets, sublime text, atom, etc) pero nosotros elegiremos [visual studio code](https://code.visualstudio.com/), ya que combina el poder de un [ide](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) y la ligereza de un editor, tiene soporte de __intelissense__, __debuggin__, __integracion con git__ y __extenciones o plugins__. Cuenta con el respaldo de microsoft y una comunidad bastante robusta.
 
 ```
@@ -37,11 +37,11 @@ Para instalar los navegadores, solamente daremos en el boton siguiente y nos gui
 
 ### Configurando Editor
 
-####Terminal
+#### Terminal
 Configurararemos primeramente la __terminal integrada__ de nuestro editor siguiendo el siguiente [documento](https://code.visualstudio.com/docs/editor/integrated-terminal). Referenciaremos a la consola de git para poder obtener todos los beneficios de esta.
 
 
-####Plugins
+#### Plugins
 Tambien instalaremos los plugins basicos para nuestro flujo de trabajo.
 Encontraremos los plugins desde la barra de busqueda , buscaremos e insltaremos los siguientes:
 
