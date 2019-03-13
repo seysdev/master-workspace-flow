@@ -1,7 +1,7 @@
 # Aprendiendo Linea de comandos Linux
 Aprenderemos a cambiar ruta, crear, copiar, eliminar, carpetas y archivos a travez de la linea de comandos.
 
-###La anatomia de un comando es la siguiente 
+### La anatomia de un comando es la siguiente 
 Todos los comandos se componen de:
 
 * Un nombre con el que se invoca el comando.
@@ -12,7 +12,7 @@ Pero no todas las opciones son requeridos, el unico requerido solo es el comando
 
 ![cli anatomy](./cli-anatomy.jpg)
 
-###Comandos
+### Comandos
 * __help:__ Podemos encontrar ayuda de un comando escribiendo
 ```
 help "comando"
@@ -70,7 +70,7 @@ clear
 ```
 
 
-##Editor VIM
+## Editor VIM
 El editor vim es el editor mas usado en linux y muchos programas vienen integrados con este. Listaremos algunos comandos basicos para poder manipular este editor.
 
 El editor vim posee dos modos de operación, el modo de comandos y el modo de inserción de texto. Cuando lo inicias, entra por defecto en el modo de comandos. Para pasar al modo de editor, debes iniciarlo de alguna manera. La forma más común de pasar al modo de edición es presionando la tecla i. Para salir del modo de edición y volver al modo de comandos, basta con presionar la tecla ESC.
