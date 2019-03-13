@@ -1,7 +1,7 @@
-#Git y sus comandos
+# Git y sus comandos
 Git es un software open source para el manejo de control de versiones
 
-###La anatomia de un comando es la siguiente 
+### La anatomia de un comando es la siguiente 
 Todos los comandos se componen de:
 
 * El prefijo __git__.
@@ -14,7 +14,7 @@ __Ejemplos:__
 * git add nombre_archivo
 * git commit -m "first commit"
 
-###Comandos
+### Comandos
 * __git help:__ Muestra ayuda de comandos
 ```
 git help
@@ -112,7 +112,7 @@ git push origin --delete "nombre-rama"
 
 
 
-###Enlaces de interes
+### Enlaces de interes
 
 [Git - La guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 [Libro oficial Git](https://git-scm.com/book/es/v2)
