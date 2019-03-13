@@ -114,10 +114,10 @@ git push origin --delete "nombre-rama"
 
 ### Enlaces de interes
 
-[Git - La guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
-[Libro oficial Git](https://git-scm.com/book/es/v2)
-[git branching](https://learngitbranching.js.org/)
-[comandos git](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/)
-[git bitbucket](https://es.atlassian.com/git/tutorials)
+* [Git - La guia sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
+* [Libro oficial Git](https://git-scm.com/book/es/v2)
+* [git branching](https://learngitbranching.js.org/)
+* [comandos git](https://github.github.com/training-kit/downloads/es_ES/github-git-cheat-sheet/)
+* [git bitbucket](https://es.atlassian.com/git/tutorials)
 
 
