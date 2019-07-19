@@ -71,7 +71,7 @@ clear
 
 
 ## Editor VIM
-El editor vim es el editor mas usado en linux y muchos programas vienen integrados con este. Listaremos algunos comandos basicos para poder manipular este editor.
+El editor vim es el editor mas usado en linux y muchos programas vienen integrados con este.Vim nos ayuda a editar archivos desde la consola. Listaremos algunos comandos basicos para poder manipular este editor.
 
 El editor vim posee dos modos de operación, el modo de comandos y el modo de inserción de texto. Cuando lo inicias, entra por defecto en el modo de comandos. Para pasar al modo de editor, debes iniciarlo de alguna manera. La forma más común de pasar al modo de edición es presionando la tecla i. Para salir del modo de edición y volver al modo de comandos, basta con presionar la tecla ESC.
 
